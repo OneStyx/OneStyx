@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @OneStyx
+- 👋 Hi, I’m @OhNose
 - 👀 I’m interested in coding, video games.
-- 🌱 I’m currently learning coding.
+- 🌱 I’m currently learning to code.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me On discord: OhNose | OneStyx#9370
+- 📫 How to reach me On discord: ohnose.
 
 <!---
 OneStyx/OneStyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
